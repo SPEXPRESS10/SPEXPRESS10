@@ -157,9 +157,7 @@ Requisitos não funcionais
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| SQL | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Python | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
@@ -167,18 +165,7 @@ Requisitos não funcionais
 </details>
 
 
-
-
-![ingrid](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/b3711256-acc1-403c-bc04-5b7a46e65662)
-
-
-
-
-
-
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
-
-
 
