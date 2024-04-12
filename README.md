@@ -164,8 +164,18 @@ Requisitos não funcionais
  
 </details>
 
-
 ## Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
+</details>
 
