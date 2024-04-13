@@ -143,11 +143,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
  
 </details>
 
