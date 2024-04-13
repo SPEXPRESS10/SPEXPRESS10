@@ -114,24 +114,24 @@ Requisitos não funcionais
 - Slack
   
 
-## Sprint 1. Concepção
+## Sprint 1.
 - [x] Estruturação do GitHub;
 - [x] Desenvolver um Dashboard;
 - [x] Backlog do Produto;
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
-## Sprint 2. Desenvolvimento do Projeto
+## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
 
       
-## Sprint 3 . Implementação
+## Sprint 3 .
 - [ ] Relatório técnico da Sprint 3;
 
 
       
-## Sprint 4. Operacionalização
+## Sprint 4.
 - [ ] Relatório técnico da Sprint 4;
 
 
