@@ -122,7 +122,6 @@ Requisitos não funcionais
 
 ## Sprint 1. Concepção
 - [x] Estruturação do GitHub;
-- [x] Desenvolver uma Base de dados em SQL;
 - [x] Desenvolver um Dashboard;
 - [x] Backlog do Produto;
 - [x] Estruturação das tasks no Jira Software;
@@ -130,24 +129,17 @@ Requisitos não funcionais
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Relatório técnico da Sprint 2;
-- [ ] Obter e trabalhar a estrutura relacional de tabelas com base de dados disponibilizados pelo cliente atráves do sistema MySQL;
-- [ ] Criar funções matemáticas para medir a produtividade das 3 Fábricas;
-- [ ] criar um ambiente de trabalho dentro do python com os dados do SQL;
+
 
       
 ## Sprint 3 . Implementação
 - [ ] Relatório técnico da Sprint 3;
-- [ ] Criação da produtividade mensal no Power BI e a relação entre outputs e inputs;
-- [ ] Aplicação do método de transportes para otimização da distribuição;
-- [ ] Criação do storytelling;
+
 
       
 ## Sprint 4. Operacionalização
 - [ ] Relatório técnico da Sprint 4;
-- [ ] Fazer uma análise dos resultados gerados pelo projeto;
-- [ ] Correção de erros gerados para verificar possiveis melhorias;
-- [ ] Interligar as ferramentas SQLcom Python e Power BI;
-- [ ] Criação do storytelling básico;
+
 
 # Competências desenvolvidas
 
