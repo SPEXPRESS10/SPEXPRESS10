@@ -56,15 +56,10 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-O objetivo deste projeto é otimizar as rotas de três plantas pertencentes à mesma empresa por meio da aplicação de técnicas de pesquisa operacional. Pretende-se desenvolver um modelo que maximize a eficiência logística, minimizando custos e tempo de transporte entre as plantas, garantindo assim uma distribuição mais ágil e econômica dos produtos.
 
-Além disso, o projeto visa implementar um modelo matemático que possa ser utilizado para realizar análises de cenários e simulações, permitindo à empresa avaliar o impacto de diferentes estratégias. Isso possibilitará uma abordagem mais proativa na gestão financeira da empresa, permitindo a identificação de oportunidades de maximização de lucros e mitigação de riscos.
 
 # Resultado Esperado
 
-O resultado esperado do modelo de otimização utilizando pesquisa operacional é a definição de rotas de transporte mais eficientes entre as três plantas da empresa. Espera-se que o modelo forneça um plano detalhado que minimize os custos totais de transporte, levando em consideração fatores como distância, capacidade dos veículos, tempo de viagem e restrições operacionais.
-
-Espera-se que o modelo matemático identifique as rotas mais rápidas e econômicas, garantindo entregas pontuais e reduzindo o tempo ocioso dos veículos. Além disso, o modelo deve ser capaz de adaptar-se a diferentes cenários e condições operacionais, proporcionando flexibilidade para lidar com imprevistos e variações na demanda.
 
 
 
