@@ -106,9 +106,10 @@ Regras de Negócio
 
 Requisitos funcionais 
 - Uma estrutura de banco de dados relacional;
-- Uma tela de Power BI que mostre a produtividade mensal dos veículos (relação entre outputs e inputs);
-- Uma tele Power BI com a evolução dos custos por Km de cada rota, filtrando por fábricas;
-- Uma tele Power BI com a evolução dos custos por unidade transportada de cada rota, filtrando por fábricas;
+- Uma tela de Power BI Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
+- Uma tele Power BI Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de SP;
+- Uma tele Power BI Desenvolver linha de Tendência para as cargas identificadas;
+- Uma tele Power BI Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
 - Relatórios;
   
 Requisitos não funcionais
