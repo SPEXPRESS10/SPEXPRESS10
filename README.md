@@ -173,4 +173,3 @@ Requisitos não funcionais
 </details>
 
 
-![ingrid 2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/acc687c5-5145-4804-8665-f53dadb05c97)
