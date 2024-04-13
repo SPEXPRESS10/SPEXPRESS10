@@ -69,7 +69,7 @@ Sprint | Previsão | Status| Histórico|
   
 <div align="center">
     
-![product backlog](https://github.com/Trium-Logistics/Trium-Logistics-3/assets/130483215/cdb84b04-5e8a-4da0-aa5e-b63c8dc1814a)
+![product backlog]()
 
 </div>
 
