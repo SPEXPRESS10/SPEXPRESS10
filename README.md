@@ -154,7 +154,7 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
-
+3
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
