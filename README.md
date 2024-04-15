@@ -152,6 +152,8 @@ Requisitos não funcionais
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
+.
+
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
