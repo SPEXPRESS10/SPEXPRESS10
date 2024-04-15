@@ -56,7 +56,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-* Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
+* Analisar todas as exportações provenientes do Estado de São Paulo.
 * Criar base de dados relacional e Dashboard que permita:
   - Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
   - Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de SP;
