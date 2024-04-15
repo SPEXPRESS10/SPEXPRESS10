@@ -28,11 +28,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 12/03/2024 | a fazer | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
-|01 | 17/04/2024 | a fazer | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/julia_silva130_fatec_sp_gov_br/EdohNT2avcFNuAlE-7O-hGQBPPvhz3Q971-JUQEOb6tkiQ?e=IbpjJP) | 
-|02|  08/05/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
-|03| 29/05/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04| 19/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|Kick Off | 12/03/2024 | **CONCLUIDO** | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:p:/g/personal/julia_silva130_fatec_sp_gov_br/ETnX0Ta0Ir1Jq5rzc__m6EwBjLeL12nToZpFOzRqGnopqg?e=EAt7Yw) | 
+|01 | 16/04/2024 | **CONCLUÍDO** | [Ver Relatório](https://fatecspgov-my.sharepoint.com/:w:/g/personal/julia_silva130_fatec_sp_gov_br/EdohNT2avcFNuAlE-7O-hGQBPPvhz3Q971-JUQEOb6tkiQ?e=IbpjJP) | 
+|02|  00/00/2024| a fazer |[Ver Relatório](https://github.com/Trium-Logistics/Trium-Logistics-2/blob/Sprint1/doc/Relat%C3%B3rio%20Sprint%201%20Final%20-%20Trium%20Logistics.pdf) | 
+|03| 00/00/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 00/00/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções| 27/06/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 <br>
