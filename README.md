@@ -155,17 +155,17 @@ Requisitos não funcionais
 
 .
 
-## Sprint 2.
+# Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
 
       
-## Sprint 3 .
+# Sprint 3 .
 - [ ] Relatório técnico da Sprint 3;
 
 
       
-## Sprint 4.
+# Sprint 4.
 - [ ] Relatório técnico da Sprint 4;
 
 
