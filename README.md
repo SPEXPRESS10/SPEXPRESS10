@@ -131,7 +131,7 @@ Requisitos não funcionais
 - [x] Relatório técnico da Sprint 1;
 
 <details>
-<summary>Hard Skills desenvolvidas</summary>
+<summary>Skills desenvolvidas</summary>
   
 | Tecnologias SPRINT 1 | Classificação |
 | ---------------------- | ------------- |
