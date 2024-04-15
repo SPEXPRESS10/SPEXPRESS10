@@ -130,7 +130,7 @@ Requisitos não funcionais
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
-      <details>
+<details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologias SPRINT 1 | Classificação |
@@ -141,6 +141,8 @@ Requisitos não funcionais
 | Power BI | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
+<details>
+<summary>Soft Skills desenvolvidas</summary>
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
