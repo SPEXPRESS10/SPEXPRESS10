@@ -143,7 +143,8 @@ Requisitos não funcionais
 
 <details>
 <summary>Soft Skills desenvolvidas</summary>
-| Habilidades | Classificação |
+  
+| Habilidades SPRINT 1 | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Proatividade| ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
