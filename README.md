@@ -194,7 +194,7 @@ Requisitos não funcionais
 | Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 | Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 </details>
