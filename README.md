@@ -141,7 +141,6 @@ Requisitos não funcionais
 | Power BI | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
-<details>
 <summary>Soft Skills desenvolvidas</summary>
   
 | Habilidades SPRINT 1 | Classificação |
@@ -154,7 +153,6 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
-3
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
