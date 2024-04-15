@@ -119,7 +119,9 @@ Requisitos não funcionais
 - Jira Software
 - 5W2H
 - Slack
-  
+
+# Burndown
+(inserir após término da sprint 1)
 
 ## Sprint 1.
 - [x] Estruturação do GitHub;
