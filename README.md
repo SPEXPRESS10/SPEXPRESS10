@@ -191,7 +191,7 @@ Requisitos não funcionais
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
 | Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 | Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
