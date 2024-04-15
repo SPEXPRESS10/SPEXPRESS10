@@ -155,7 +155,6 @@ Requisitos não funcionais
 
 </details>
 
-
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
