@@ -56,7 +56,12 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
+Mapear o potencial de movimentação de cargas no aeroporto de SJK com base em dados de importação e exportação de municípios no ano de 2022.
 
+Desenvolvimento de estrutura relacional de tabela com base nos dados disponibilizados;
+Criação de um dashboard intuitivo para visualização dos dados apresentados;
+Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara;
+Desenvolver habilidades técnicas.
 
 # Resultado Esperado
 
