@@ -130,29 +130,6 @@ Requisitos não funcionais
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
-<details>
-<summary>Skills desenvolvidas</summary>
-  
-| Tecnologias SPRINT 1 | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-
-<summary>Soft Skills desenvolvidas</summary>
-  
-| Habilidades SPRINT 1 | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-
-</details>
 
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
