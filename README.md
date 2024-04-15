@@ -130,6 +130,26 @@ Requisitos não funcionais
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
+      <details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologias SPRINT 1 | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
@@ -152,11 +172,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Slack | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -166,12 +186,12 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 </details>
 
