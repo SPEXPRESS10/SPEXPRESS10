@@ -131,7 +131,6 @@ Requisitos não funcionais
 - [x] Relatório técnico da Sprint 1;
 
 ## Hard Skill (saber tecnológico)
-<details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
