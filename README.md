@@ -153,11 +153,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Slack | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -167,12 +167,12 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Colaboração | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆  |
 
 </details>
 
