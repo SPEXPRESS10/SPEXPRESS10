@@ -143,8 +143,7 @@ Requisitos não funcionais
 | Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
-
-# Soft Skill (saber comportamental)
+* Soft Skill (saber comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
