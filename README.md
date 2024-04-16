@@ -131,6 +131,7 @@ Requisitos não funcionais
 - [x] Relatório técnico da Sprint 1;
 
 ## Hard Skill (saber tecnológico)
+<details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
@@ -140,9 +141,7 @@ Requisitos não funcionais
 | Slack | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Power BI | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-
 ## Soft Skill (saber comportamental)
-<details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
@@ -153,8 +152,8 @@ Requisitos não funcionais
 | Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
+
  <details>
-   
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
