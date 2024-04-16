@@ -152,8 +152,8 @@ Requisitos não funcionais
 | Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
+<summary>Soft Skills desenvolvidas</summary>
 
- <details>
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
