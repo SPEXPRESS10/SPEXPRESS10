@@ -130,6 +130,32 @@ Requisitos não funcionais
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Slack | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+ 
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
 
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
