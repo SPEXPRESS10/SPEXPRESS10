@@ -130,7 +130,6 @@ Requisitos não funcionais
 - [x] Estruturação das tasks no Jira Software;
 - [x] Relatório técnico da Sprint 1;
 
- * Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -143,7 +142,7 @@ Requisitos não funcionais
 | Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
-* Soft Skill (saber comportamental)
+
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
