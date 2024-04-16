@@ -88,6 +88,12 @@ Sprint | Previsão | Status| Histórico|
 * Jira Software;
 * Power Bi;
 * Slack;
+
+
+![organograma](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/eec60434-1523-4982-a95d-e65e4f88a0fe)
+
+
+
  # Produto 
   
 
