@@ -143,6 +143,7 @@ Requisitos não funcionais
 | Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 
 ## Soft Skill (saber comportamental)
+<details>
 <summary>Soft Skills desenvolvidas</summary>
 
 | Habilidades | Classificação |
@@ -153,8 +154,7 @@ Requisitos não funcionais
 | Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
-<details>
-  
+  # 
 ## Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
