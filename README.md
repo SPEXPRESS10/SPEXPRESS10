@@ -134,7 +134,7 @@ Requisitos não funcionais
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
-| Tecnologia/Metodologia | Classificação |
+| Tecnologia da Sprint 1 | Classificação |
 | ---------------------- | ------------- |
 | GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Jira Software | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
@@ -152,19 +152,19 @@ Requisitos não funcionais
 | Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
 | Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
-<summary>Soft Skills desenvolvidas</summary>
 
-## Sprint 2.
+
+# Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
 
 
       
-## Sprint 3 .
+# Sprint 3 .
 - [ ] Relatório técnico da Sprint 3;
 
 
       
-## Sprint 4.
+# Sprint 4.
 - [ ] Relatório técnico da Sprint 4;
 
 
