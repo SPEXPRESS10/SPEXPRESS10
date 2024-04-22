@@ -141,11 +141,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Jira Software | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Slack | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Power BI | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Pacote Office | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Jira Software | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Slack | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Power BI | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -154,19 +154,26 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Comunicação | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
-| Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
+| Colaboração | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Comunicação | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
 
 </details>
 
 
 # Sprint 2.
 - [ ] Relatório técnico da Sprint 2;
-
+- [ ] Identificação de cargas
+- [ ] Suavização exponencial
+- [ ] Identificação de modais
+- [ ] Pesquisas para identificação de cargas
+- [ ] Aplicar 5w2h
+- [ ] Desenvolver "Quantidade estatística"
+- [ ] Geografia dos fluxos do estado de São Paulo
+- [ ] Linhas de tendências para cargas idêntificadas
 
       
 # Sprint 3 .
