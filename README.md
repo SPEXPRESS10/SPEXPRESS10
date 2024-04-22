@@ -1,6 +1,6 @@
 # SP EXPRESS
 
-![LOGO](logospexpress.jpg)
+![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/cb066c99-0444-4eef-85b5-c77712f312ab)
 <br>
 
 # Índice
@@ -208,4 +208,5 @@ Requisitos não funcionais
 | Autonomia | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
 
 </details>
+
 
