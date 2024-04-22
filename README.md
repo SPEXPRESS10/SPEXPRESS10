@@ -123,7 +123,7 @@ Requisitos não funcionais
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Jira Software
-- SWOT
+- 5W2H
 - Slack
 
 # Burndown
