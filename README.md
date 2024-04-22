@@ -66,7 +66,9 @@ Sprint | Previsão | Status| Histórico|
 * Desenvolver habilidades técnicas.
 
 # Resultado Esperado
-
+* Encontrar o produto com o maior potencial do Estado de são paulo.
+* Apresentar um dashboard ilustrativo e objetivo seguindo as recomendações do cliente.
+* Apresentar evolução no manuseio das ferramentas requeridas pelo cliente.
 
 
 
@@ -208,4 +210,3 @@ Requisitos não funcionais
 </details>
 
 
-[sprint1.pdf](https://github.com/SPEXPRESS10/SPEXPRESS10/files/15064573/sprint1.pdf)
