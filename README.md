@@ -83,14 +83,12 @@ Sprint | Previsão | Status| Histórico|
 
 # Tecnologias Específicas/Apoio
 
-* SWOT;
-* GitHub;
-* Jira Software;
-* Power Bi;
-* Slack;
 
 
-![organograma](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/eec60434-1523-4982-a95d-e65e4f88a0fe)
+
+![tela ferramentas](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/b96bc85e-8a79-47a8-bf5a-54076848bf5a)
+
+
 
 
 
