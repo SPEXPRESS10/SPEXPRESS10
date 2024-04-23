@@ -97,7 +97,7 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-* Link para acessar o produto:
+* Link para acessar o produto: https://app.powerbi.com/groups/me/reports/e3a0295b-effb-4f77-a3c8-4e41fcda3ade/ReportSection?experience=power-bi
  
 
 
