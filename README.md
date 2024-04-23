@@ -105,7 +105,6 @@ Sprint | Previsão | Status| Histórico|
 
 ![Base_de_Dados](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/333e62c1-cee5-4f54-abbf-34bc84f53790)
 
-![Gif Trium]()
 
 
 Regras de Negócio
