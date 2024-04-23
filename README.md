@@ -126,7 +126,7 @@ Requisitos não funcionais
 - Slack
 
 # Burndown
-(inserir após término da sprint 1)
+![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/f773055e-69f2-4bb5-b4bf-69a38bf20159)
 
 ## Sprint 1.
 - [x] Estruturação do GitHub;
@@ -214,5 +214,6 @@ Requisitos não funcionais
 | Autonomia | ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆   |
 
 </details>
+
 
 
