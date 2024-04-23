@@ -216,4 +216,3 @@ Requisitos não funcionais
 </details>
 
 
-![backlog sprint1]()
