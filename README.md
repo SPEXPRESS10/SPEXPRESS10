@@ -78,7 +78,7 @@ Sprint | Previsão | Status| Histórico|
   
 <div align="center">
     
-![product backlog](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/0e6d2ef7-1268-44b7-a6f2-645c5fca3a09)
+![product backlog](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/1a0ccff5-6765-49f8-b7db-692dd9313ff6)
 
 </div>
 
