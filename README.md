@@ -164,15 +164,15 @@ Requisitos não funcionais
 
 
 # Sprint 2.
-- [ ] Relatório técnico da Sprint 2;
-- [ ] Identificação de cargas
-- [ ] Suavização exponencial
-- [ ] Identificação de modais
-- [ ] Pesquisas para identificação de cargas
-- [ ] Aplicar 5w2h
-- [ ] Desenvolver "Quantidade estatística"
-- [ ] Geografia dos fluxos do estado de São Paulo
-- [ ] Linhas de tendências para cargas idêntificadas
+- [x] Relatório técnico da Sprint 2;
+- [x] Identificação de cargas
+- [x] Suavização exponencial
+- [x] Identificação de modais
+- [x] Pesquisas para identificação de cargas
+- [x] Aplicar 5w2h
+- [x] Desenvolver "Quantidade estatística"
+- [x] Geografia dos fluxos do estado de São Paulo
+- [x] Linhas de tendências para cargas idêntificadas
 
       
 # Sprint 3 .
