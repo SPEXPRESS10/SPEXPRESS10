@@ -1,6 +1,6 @@
 # SP EXPRESS
 
-![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/b634839a-31c3-4f8d-87c0-7c1e3c3f0925)
+![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/67a7d424-170c-4be2-b1d5-f2762f0f7278)
 <br>
 
 # Índice
@@ -216,9 +216,9 @@ Requisitos não funcionais
 </details>
 
 
-![ferramentas](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/35ab8a29-f830-4cb2-9202-722db6f003b3)
 
 
 
-![logo api](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/b634839a-31c3-4f8d-87c0-7c1e3c3f0925)
+![logo_api-removebg-preview](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/67a7d424-170c-4be2-b1d5-f2762f0f7278)
+
 
