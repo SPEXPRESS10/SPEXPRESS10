@@ -218,7 +218,3 @@ Requisitos não funcionais
 
 
 
-
-![logo_api-removebg-preview](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/67a7d424-170c-4be2-b1d5-f2762f0f7278)
-
-
