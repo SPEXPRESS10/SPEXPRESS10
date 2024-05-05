@@ -1,7 +1,8 @@
 # SP EXPRESS
 
-![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/67a7d424-170c-4be2-b1d5-f2762f0f7278)
+![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/dcfe6406-c84c-4369-b51d-2caeea1f056f)
 <br>
+
 
 # Índice
 
