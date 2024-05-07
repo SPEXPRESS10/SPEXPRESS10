@@ -133,7 +133,7 @@ Requisitos não funcionais
 # Burndown
 ![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/e03c6c39-5c51-4863-b3b0-b6feee976c2c)
 
-## Sprint 1.
+## Sprint 1: Desenvolvimento Integrado: Dashboard, Backlog e Relatório
 - [x] Estruturação do GitHub;
 - [x] Desenvolver um Dashboard;
 - [x] Backlog do Produto;
@@ -143,7 +143,7 @@ Requisitos não funcionais
 </details>
 
 
-# Sprint 2.
+# Sprint 2: Análise Avançada e Estratégias de Identificação de Cargas em São Paulo
 - [x] Relatório técnico da Sprint 2;
 - [x] Identificação de cargas
 - [x] Suavização exponencial
