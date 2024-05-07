@@ -159,7 +159,7 @@ Requisitos não funcionais
 - [ ] Relatório técnico da Sprint 3;
 - [ ] Filtrar POWER BI por 4 Modais
 - [ ] monstrar formula de calculo no POWER BI
-- [ ] 
+
 
 
       
