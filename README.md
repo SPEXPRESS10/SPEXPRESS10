@@ -131,7 +131,7 @@ Requisitos não funcionais
 - Slack
 
 # Burndown
-![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/f773055e-69f2-4bb5-b4bf-69a38bf20159)
+![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/e03c6c39-5c51-4863-b3b0-b6feee976c2c)
 
 ## Sprint 1.
 - [x] Estruturação do GitHub;
