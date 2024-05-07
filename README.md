@@ -157,6 +157,7 @@ Requisitos não funcionais
       
 # Sprint 3 .
 - [ ] Relatório técnico da Sprint 3;
+- [ ] Filtrar POWER BI por 4 Modais
 
 
       
