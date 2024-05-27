@@ -157,22 +157,21 @@ Requisitos não funcionais
       
 # Sprint 3:Transparência e Eficiência,Resultados da Sprint 3 no Power BI
 - [x] Relatório técnico da Sprint 3;
-- [x] Filtrar o power BI em 4 modais e colocar o restante como outros
-- [x] soma do valor FOB mês. Quanto o Estado mandou de dinheiro para fora 
-- [x] monstrar formula de calculo no POWER BI
-- [x] Linha de tendência, equação o gráfico no excel
-- [x] Suavização Exponencial, Dados do Comex Stat
+- [x] Preencher o filtro do Power BI com quatro modais específicos e categorizar o restante como 'Outros'.
+- [x] Totalizar o valor FOB mensal para determinar o montante enviado pelo estado para o exterior.
+- [x] Exibir a fórmula de cálculo no EXCEL.
+- [x] Exibir a equação da linha de tendência no gráfico do Excel.
+- [x] Implementar Suavização Exponencial nos dados do Comex Stat.
 
 
 
       
 # Sprint 4: Filtragem Avançada e Transparência de Cálculos. Atualizações da Sprint 4 no Power BI
 - [ ] Relatório técnico da Sprint 4
-- [ ] Validação, coluna com todos SH4 estudados do estado
-- [ ] somatoria do Valor FOB do SH4 referente a janeiro 2024
-- [ ] Suavizção exponencial referente a previsão de Janeiro 2024
-- [ ] Elaboração da coluna "ERR0". referente a quantos produtos ele acerta e erra 
-
+- [ ] Realizar validação para garantir que a coluna contenha todos os códigos SH4 estudados pelo estado.
+- [ ] Calcular a soma do Valor FOB do código SH4 para janeiro de 2024.
+- [ ] Aplicar suavização exponencial para a previsão de janeiro de 2024.
+- [ ] Desenvolvimento da coluna 'ERRO', indicando o número de produtos corretamente e incorretamente previstos.
 
 # Competências desenvolvidas
 
