@@ -162,13 +162,16 @@ Requisitos não funcionais
 - [ ] monstrar formula de calculo no POWER BI
 - [ ] Linha de tendência, equação o gráfico no excel
 - [ ] Suavização Exponencial, Dados do Comex Stat
-- [ ] Validação, coluna com todos SH4 estudados do estado 
 
 
 
       
 # Sprint 4: Filtragem Avançada e Transparência de Cálculos: Atualizações da Sprint 4 no Power BI
-- [ ] Relatório técnico da Sprint 4;
+- [ ] Relatório técnico da Sprint 4
+- [ ] Validação, coluna com todos SH4 estudados do estado
+- [ ] somatoria do Valor FOB do SH4 referente a janeiro 2024
+- [ ] Suavizção exponencial referente a previsão de Janeiro 2024
+- [ ] Elaboração da coluna "ERR0". referente a quantos produtos ele acerta e erra 
 
 
 # Competências desenvolvidas
@@ -179,11 +182,11 @@ Requisitos não funcionais
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Jira Software | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Slack | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Power BI | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Pacote Office | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Jira Software | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Slack | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power BI | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Pacote Office | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -193,12 +196,12 @@ Requisitos não funcionais
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Comunicação | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Autonomia | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆   |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Autonomia | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆   |
 
 </details>
 
