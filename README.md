@@ -167,7 +167,7 @@ Requisitos não funcionais
       
 # Sprint 4: Filtragem Avançada e Transparência de Cálculos. Atualizações da Sprint 4 no Power BI
 - [ ] Relatório técnico da Sprint 4
-- [ ] Realizar validação para garantir que a coluna contenha todos os códigos SH4 estudados pelo estado.
+- [ ] Realizar validação para garantir que a coluna contenha todos os códigos NCM estudados pelo estado.
 - [ ] Calcular a soma do Valor FOB do código SH4 para janeiro de 2024.
 - [ ] Aplicar suavização exponencial para a previsão de janeiro de 2024.
 - [ ] Desenvolvimento da coluna 'ERRO', indicando o número de produtos corretamente e incorretamente previstos.
