@@ -155,15 +155,19 @@ Requisitos não funcionais
 - [x] Linhas de tendências para cargas idêntificadas
 
       
-# Sprint 3 .
+# Sprint 3:Transparência e Eficiência,Resultados da Sprint 3 no Power BI
 - [ ] Relatório técnico da Sprint 3;
-- [ ] Filtrar POWER BI por 4 Modais
+- [ ] Filtrar o power BI em 4 modais e colocar o restante como outros
+- [ ] soma do valor FOB mês. Quanto o Estado mandou de dinheiro para fora 
 - [ ] monstrar formula de calculo no POWER BI
+- [ ] Linha de tendência, equação o gráfico no excel
+- [ ] Suavização Exponencial, Dados do Comex Stat
+- [ ] Validação, coluna com todos SH4 estudados do estado 
 
 
 
       
-# Sprint 4.
+# Sprint 4: Filtragem Avançada e Transparência de Cálculos: Atualizações da Sprint 4 no Power BI
 - [ ] Relatório técnico da Sprint 4;
 
 
