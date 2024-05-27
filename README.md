@@ -156,17 +156,17 @@ Requisitos não funcionais
 
       
 # Sprint 3:Transparência e Eficiência,Resultados da Sprint 3 no Power BI
-- [ ] Relatório técnico da Sprint 3;
-- [ ] Filtrar o power BI em 4 modais e colocar o restante como outros
-- [ ] soma do valor FOB mês. Quanto o Estado mandou de dinheiro para fora 
-- [ ] monstrar formula de calculo no POWER BI
-- [ ] Linha de tendência, equação o gráfico no excel
-- [ ] Suavização Exponencial, Dados do Comex Stat
+- [x] Relatório técnico da Sprint 3;
+- [x] Filtrar o power BI em 4 modais e colocar o restante como outros
+- [x] soma do valor FOB mês. Quanto o Estado mandou de dinheiro para fora 
+- [x] monstrar formula de calculo no POWER BI
+- [x] Linha de tendência, equação o gráfico no excel
+- [x] Suavização Exponencial, Dados do Comex Stat
 
 
 
       
-# Sprint 4: Filtragem Avançada e Transparência de Cálculos: Atualizações da Sprint 4 no Power BI
+# Sprint 4: Filtragem Avançada e Transparência de Cálculos. Atualizações da Sprint 4 no Power BI
 - [ ] Relatório técnico da Sprint 4
 - [ ] Validação, coluna com todos SH4 estudados do estado
 - [ ] somatoria do Valor FOB do SH4 referente a janeiro 2024
