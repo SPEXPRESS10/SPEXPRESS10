@@ -161,7 +161,6 @@ Requisitos não funcionais
 - [x] Totalizar o valor FOB mensal para determinar o montante enviado pelo estado para o exterior.
 - [x] Exibir a fórmula de cálculo no EXCEL.
 - [x] Exibir a equação da linha de tendência no gráfico do Excel.
-- [x] Implementar Suavização Exponencial nos dados do Comex Stat.
 
 
 
