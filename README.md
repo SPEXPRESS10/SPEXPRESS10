@@ -143,7 +143,7 @@ Requisitos não funcionais
 </details>
 
 
-# Sprint 2: Análise Avançada e Estratégias de Identificação de Cargas em São Paulo
+# Sprint 2: Análise avançada e estratégias de identificação de cargas em São Paulo
 - [x] Relatório técnico da Sprint 2;
 - [x] Identificação de cargas
 - [x] Suavização exponencial
@@ -155,7 +155,7 @@ Requisitos não funcionais
 - [x] Linhas de tendências para cargas idêntificadas
 
       
-# Sprint 3:Transparência e Eficiência,Resultados da Sprint 3 no Power BI
+# Sprint 3:Transparência e eficiência. Resultados da Sprint 3 no Power BI
 - [x] Relatório técnico da Sprint 3;
 - [x] Preencher o filtro do Power BI com quatro modais específicos e categorizar o restante como 'Outros'.
 - [x] Totalizar o valor FOB mensal para determinar o montante enviado pelo estado para o exterior.
@@ -165,7 +165,7 @@ Requisitos não funcionais
 
 
       
-# Sprint 4: Filtragem Avançada e Transparência de Cálculos. Atualizações da Sprint 4 no Power BI
+# Sprint 4: Filtragem avançada e transparência de cálculos. Atualizações da Sprint 4 no Power BI
 - [ ] Relatório técnico da Sprint 4
 - [ ] Realizar validação para garantir que a coluna contenha todos os códigos NCM estudados pelo estado.
 - [ ] Calcular a soma do Valor FOB do código SH4 para janeiro de 2024.
