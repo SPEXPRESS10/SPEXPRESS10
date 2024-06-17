@@ -106,10 +106,12 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/ca81f175-f76c-4113-8a07-fbf7e088803f
 
 
 
+
+
+![imagem](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/1fa37b83-4a13-47ba-9a53-e2d550be98e8)
 
 
 Regras de Negócio
