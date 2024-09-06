@@ -1,4 +1,4 @@
-# SP EXPRESS
+# TECH HUB
 
 ![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/dcfe6406-c84c-4369-b51d-2caeea1f056f)
 <br>
@@ -126,8 +126,8 @@ Requisitos funcionais
 - Relatórios;
   
 Requisitos não funcionais
-- Usar tecnologias especifícas/apoio/tecnológicas
-- Metodologias ágil
+- Python
+- SQL
 - Jira Software
 - 5W2H
 - Slack
