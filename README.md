@@ -29,12 +29,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 11/03/2024 | **CONCLUÍDO** | [Ver Relatório](https://github.com/SPEXPRESS10/SPEXPRESS10/files/14985332/relatorio.sp.express2.docx) | 
-|01 | 15/04/2024 | **CONCLUÍDO** | [Ver Relatório](https://github.com/SPEXPRESS10/SPEXPRESS10/files/15064573/sprint1.pdf) | 
-|02|  06/05/2024| **CONCLUÍDO** |[Ver Relatório](https://github.com/SPEXPRESS10/SPEXPRESS10/files/15227263/RELATORIO.SP.EXPRESS.docx) | 
-|03| 27/05/2024 | **CONCLUÍDO** |[Ver Relatório](https://github.com/user-attachments/files/15844781/relatorio.da.ultima.sprint.docx) | 
-|04| 17/06/2024 | **CONCLUÍDO** |[Ver Relatório](https://github.com/user-attachments/files/15844781/relatorio.da.ultima.sprint.docx)  | 
-|Feira de Soluções| 27/06/2024 | EM ANDAMENTO |[Ver Relatório](https://github.com/user-attachments/files/15844781/relatorio.da.ultima.sprint.docx) | 
+|Kick Off | 11/03/2024 | **Em Andamento** | [Ver Relatório]() | 
+|01 | 15/04/2024 | **Em Andamento** | [Ver Relatório]() | 
+|02|  06/05/2024| **Em Andamento** |[Ver Relatório]() | 
+|03| 27/05/2024 | **Em Andamento** |[Ver Relatório]() | 
+|04| 17/06/2024 | **Em Andamento** |[Ver Relatório]()  | 
+|Feira de Soluções| 27/06/2024 | **Em Andamento** |[Ver Relatório]() | 
 
 <br>
 
