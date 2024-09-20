@@ -59,6 +59,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Resultado Esperado
+
 * Eficiência Operacional: Com a centralização dos dados e a automação de processos, as empresas poderão operar de maneira mais ágil e eficiente.
 * Melhor Tomada de Decisões: A análise de dados em tempo real permitirá que os gestores tomem decisões informadas e baseadas em evidências.
 * Redução de Custos: A otimização das rotas e da utilização dos veículos pode resultar em uma significativa redução de custos operacionais.
