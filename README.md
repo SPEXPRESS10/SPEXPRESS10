@@ -20,9 +20,7 @@
 
 
 # Projeto (API)
-Trata-se de um projeto pedagógico alicerçado na Metodologia de Aprendizagem por Projeto Integrador (API), para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o Minimo Produto Viável (MVP). Seguido de sua operação de concepção, projeto, implementação e operação de sistemas e produtos do mundo real (Inicitiva CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC, com definição das datas do kickoff e das sprints.
+O projeto em questão tem como objetivo principal o desenvolvimento de uma API que promova a gestão eficiente de dados logísticos, especialmente voltada para a otimização de veículos, rotas e custos de transporte. Em um cenário onde a logística desempenha um papel crucial no sucesso de operações empresariais, a necessidade de ferramentas que integrem e analisem dados se torna cada vez mais evidente. Com isso, nossa proposta busca oferecer uma solução que não apenas armazene informações, mas que também possibilite uma análise profunda e a tomada de decisões estratégicas.
 
 <br>
 
