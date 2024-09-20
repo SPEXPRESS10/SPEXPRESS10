@@ -53,19 +53,15 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 
-* Analisar todas as exportações provenientes do Estado de São Paulo.
-* Criar base de dados relacional e Dashboard que permita:
-  - Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
-  - Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de SP;
-  - Desenvolver linha de tendência para as cargas identificadas;
-  - Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas.
-* Documentar todo o processo na plataforma GitHub e gestão do projeto desenvolvido no Jira Software de forma clara.
-* Desenvolver habilidades técnicas.
+* Criação e Modelagem do Banco de Dados: Um banco de dados em SQL será criado para armazenar essas informações, garantindo que os dados sejam facilmente acessíveis e manipuláveis.
+* Criação do Visualizador de Indicadores em BI: Será integrada a ferramentas de Business Intelligence para a visualização de indicadores de desempenho (KPIs).
+* Aplicação do Método de Transportes:  Análise detalhada dos dados coletados para identificar padrões e ineficiências. 
+
 
 # Resultado Esperado
-* Encontrar o produto com o maior potencial do Estado de são paulo.
-* Apresentar um dashboard ilustrativo e objetivo seguindo as recomendações do cliente.
-* Apresentar evolução no manuseio das ferramentas requeridas pelo cliente.
+* Eficiência Operacional: Com a centralização dos dados e a automação de processos, as empresas poderão operar de maneira mais ágil e eficiente.
+* Melhor Tomada de Decisões: A análise de dados em tempo real permitirá que os gestores tomem decisões informadas e baseadas em evidências.
+* Redução de Custos: A otimização das rotas e da utilização dos veículos pode resultar em uma significativa redução de custos operacionais.
 
 
 
