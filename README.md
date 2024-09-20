@@ -224,7 +224,5 @@ Requisitos não funcionais
 
 </details>
 
-<img width="59" alt="image" src="https://github.com/user-attachments/assets/9036b8b5-f6bb-4cf2-b905-eaf2f0a6d61c">
-
 
 
