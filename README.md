@@ -45,7 +45,7 @@ Sprint | Previsão | Status| Histórico|
 | Team Member  |  <a href="https://user-images.githubusercontent.com/142995260/273606204-7e156cbd-5834-46c2-b3de-9a55555f111f.jpg"><img src="https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/038d93b5-f42f-4f96-820c-ab4439182307" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>João Vitor</p>|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-vasconcelos-da-silva-2149a5147/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaovitorlog)     |
 | Team Member   | <a href="https://user-images.githubusercontent.com/142995260/273607131-51127998-a41a-418b-878e-14ac3e079240.jpg"><img src="https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/9b6f0316-27ce-43c4-8470-b9920329ecb8" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Anderson Carvalho</p>             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-carvalho-0a5317191/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Andersondecarvalhoserio)        |
 |  Product Owner  |  <a href="https://github.com/Juliavitoriasilva/Projeto-Comex/assets/130483215/6ee2da46-9568-4bcd-abac-a6381bc06866"><img src="https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/bedc1bbd-39a2-4e89-bd2a-f018c73df2a7" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Lucca Silva</p>              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-silva-801a05213/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pyramidheather)   |
-|  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/ced20693-b802-422c-bf02-7cb6a2c3d4aa" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Miryhan Caetano </p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-rharena-b19a35220/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaRharena/ubd)          |
+|  Team Member  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img width="60" alt="image" src="https://github.com/user-attachments/assets/42728a77-c30e-4a0f-8eb9-d561b20ef3ec"></a> <p>Miryhan Caetano </p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-rharena-b19a35220/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MariaRharena/ubd)          |
 |  Scrum Master  | <a href="https://user-images.githubusercontent.com/142995260/273610141-49cedf39-11a5-4ee8-8894-ff717f5714f6.jpg"><img src="https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/c9c664a1-236b-44ee-a27c-377b0e931512" text-align="center" width="50" height="60" class="media-object  img-responsive img-thumbnail"></a> <p>Mayara Nogueira</p>   |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miriele-santos-7597a01a3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mirielesantos)          |
 
 
@@ -133,50 +133,68 @@ Requisitos não funcionais
 # Burndown
 ![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/e03c6c39-5c51-4863-b3b0-b6feee976c2c)
 
-# Sprint 1: Desenvolvimento Integrado: Dashboard, Backlog e Relatório
-- [x] Estruturação do GitHub;
-- [x] Desenvolver um Dashboard;
-- [x] Backlog do Produto;
-- [x] Estruturação das tasks no Jira Software;
-- [x] Relatório técnico da Sprint 1;
-
-</details>
-
-
-# Sprint 2: Análise avançada e estratégias de identificação de cargas em São Paulo
-- [x] Relatório técnico da Sprint 2;
-- [x] Identificação de cargas
-- [x] Suavização exponencial
-- [x] Identificação de modais
-- [x] Pesquisas para identificação de cargas
-- [x] Aplicar 5w2h
-- [x] Desenvolver "Quantidade estatística"
-- [x] Geografia dos fluxos do estado de São Paulo
-- [x] Linhas de tendências para cargas idêntificadas
-
-      
-# Sprint 3:Transparência e eficiência. Resultados da Sprint 3 no Power BI
-- [x] Relatório técnico da Sprint 3;
-- [x] Preencher o filtro do Power BI com quatro modais específicos e categorizar o restante como 'Outros'.
-- [x] Totalizar o valor FOB mensal para determinar o montante enviado pelo estado para o exterior.
-- [x] Exibir a fórmula de cálculo no EXCEL.
-- [x] Exibir a equação da linha de tendência no gráfico do Excel.
-
-
-
-      
-# Sprint 4: Filtragem avançada e transparência de cálculos. Atualizações da Sprint 4 no Power BI
-- [x] Relatório técnico da Sprint 4
-- [x] reestruturação do Jira
-- [x] Realizar validação para garantir que a coluna contenha todos os códigos NCM estudados pelo estado
-- [x] Aplicar suavização exponencial para a previsão de janeiro de 2024.
-- [x] Desenvolvimento da coluna 'ERRO', indicando o número de produtos corretamente e incorretamente previstos.
-- [x] Calcular a soma do Valor FOB do código SH4 para janeiro de 2024.
-- [x] Equação R² aplicado ao DAX
-- [x] Regressão linear dos produtos exportados
-- [x] Detalhamento do processo do DASHBOARD
-- [x] Apresentação padrão da sprint 4
-- [x] Atualizar documentação no GitHub
+### Sprint 1: Criação e Modelagem do Banco de Dados em SQL
+ 
+- **Definição de Requisitos:**
+  - Levantar necessidades de dados sobre veículos, rotas e custos.
+- **Modelo de Dados:**
+  - Estruturar tabelas: Veículos, Cargas, Rotas, Custos, Entregas.
+  - Definir relacionamentos entre as tabelas (ex: Veículos <-> Rotas).
+ 
+- **Implementação do Banco:**
+  - Criar o banco de dados em um sistema SQL.
+  - Inserir dados de exemplo para testes.
+ 
+- **Documentação:**
+  - Registrar o modelo de dados e instruções de uso.
+ 
+---
+ 
+### Sprint 2: Criação do Visualizador de Indicadores em BI
+ 
+- **Definição de KPIs:**
+  - Identificar indicadores chave (ex: taxa de utilização de veículos, custo por km, tempo de entrega).
+ 
+- **Seleção da Ferramenta de BI:**
+  - Escolher uma ferramenta adequada (ex: Power BI, Tableau).
+ 
+- **Desenvolvimento do Dashboard:**
+  - Criar visualizações para monitorar KPIs.
+  - Integrar o banco de dados para atualização dinâmica.
+ 
+- **Testes e Feedback:**
+  - Validar as visualizações com usuários finais e ajustar conforme necessário.
+ 
+---
+ 
+### Sprint 3: Aplicação do Método de Transportes
+ 
+- **Revisão de Dados:**
+  - Analisar dados de rotas e custos para identificar padrões e ineficiências.
+ 
+- **Implementação do Método:**
+  - Aplicar o método de transportes para otimização da distribuição.
+  - Modelar cenários de otimização para diferentes regiões e tipos de carga.
+ 
+- **Validação de Resultados:**
+  - Comparar resultados otimizados com dados anteriores.
+  - Ajustar parâmetros conforme necessário.
+ 
+---
+ 
+### Sprint 4: Integração e Apresentação Final
+ 
+- **Integração dos Componentes:**
+  - Garantir que o banco de dados, visualizador de BI e otimização estejam interconectados.
+ 
+- **Teste Final:**
+  - Realizar testes finais para garantir que tudo funcione como esperado.
+ 
+- **Preparação da Apresentação:**
+  - Criar uma apresentação para stakeholders, demonstrando os resultados e benefícios.
+ 
+- **Feedback e Melhorias:**
+  - Coletar feedback dos stakeholders para futuras iterações e melhorias no sistema.
 
 # Competências desenvolvidas
 
