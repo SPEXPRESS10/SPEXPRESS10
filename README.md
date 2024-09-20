@@ -1,7 +1,7 @@
 # TECH HUB
 
-![LOGO](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/dcfe6406-c84c-4369-b51d-2caeea1f056f)
-<br>
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/29822997-57ce-4230-b47e-9443e17c5fde">
+
 
 
 # Índice
