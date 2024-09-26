@@ -129,7 +129,9 @@ Requisitos não funcionais
 - Slack
 
 # Burndown
-![JIRA2](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/e03c6c39-5c51-4863-b3b0-b6feee976c2c)
+![image](https://github.com/user-attachments/assets/56fd7f04-39a9-452d-a2e3-6a95726d8ae1)
+
+
 
 ### Sprint 1: Criação e Modelagem do Banco de Dados em SQL
  
