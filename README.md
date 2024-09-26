@@ -97,7 +97,6 @@ Sprint | Previsão | Status| Histórico|
  # Produto 
   
 
-Phyton
 
  
 
@@ -111,7 +110,7 @@ Phyton
 
 
 
-![imagem](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/1fa37b83-4a13-47ba-9a53-e2d550be98e8)
+(aguardando o video do Phyton)
 
 
 
