@@ -49,6 +49,10 @@ Sprint | Previsão | Status| Histórico|
 
 <br>
 
+# Estrutura Organazional do Projeto
+
+![image](https://github.com/user-attachments/assets/76a0049b-74f7-4065-b3ee-4a6662ec0486)
+
 
 
 # Objetivo do Projeto
@@ -72,10 +76,10 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do produto
 ### Sprint 1  
-<div align="center">
 
-</div>
-<img width="709" alt="image" src="https://github.com/user-attachments/assets/27b370c4-3e21-47ba-8059-1333f3bccb06">
+![image](https://github.com/user-attachments/assets/f9531423-dfed-45d5-9e84-c6a4bb2924bd)
+
+
 
 
 
