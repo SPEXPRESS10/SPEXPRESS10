@@ -114,23 +114,7 @@ Phyton
 ![imagem](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/1fa37b83-4a13-47ba-9a53-e2d550be98e8)
 
 
-Regras de Negócio
--
 
-Requisitos funcionais 
-- Uma estrutura de banco de dados relacional;
-- Uma tela de Power BI Identificar os modais utilizados nos trâmites internacionais de movimentação de cargas;
-- Uma tele Power BI Desenhar a geografia do fluxo de exportação de cargas provenientes do estado de SP;
-- Uma tele Power BI Desenvolver linha de Tendência para as cargas identificadas;
-- Uma tele Power BI Criar modelo de previsão por meio de suavização exponencial que permita identificar as movimentações futuras de cargas;
-- Relatórios;
-  
-Requisitos não funcionais
-- Python
-- SQL
-- Jira Software
-- 5W2H
-- Slack
 
 # Burndown
 ![image](https://github.com/user-attachments/assets/56fd7f04-39a9-452d-a2e3-6a95726d8ae1)
