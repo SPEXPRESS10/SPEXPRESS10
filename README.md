@@ -14,7 +14,6 @@
 * [Backlog do Produto](#backlog-do-produto)
 * [Tecnologias Específicas/Apoio](#tecnologias-específicas-apoio)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 <br>
 
