@@ -116,7 +116,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Burndown
-![image](https://github.com/user-attachments/assets/56fd7f04-39a9-452d-a2e3-6a95726d8ae1)
+![image](https://github.com/user-attachments/assets/53683ba4-4d57-405b-8d17-e26d33810f1e)
+
 
 
 
