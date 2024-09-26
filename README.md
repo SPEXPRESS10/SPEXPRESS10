@@ -71,12 +71,12 @@ Sprint | Previsão | Status| Histórico|
 <br>
 
 # Backlog do produto
-  
+### Sprint 1  
 <div align="center">
-    
-![product backlog](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/1a0ccff5-6765-49f8-b7db-692dd9313ff6)
 
 </div>
+<img width="709" alt="image" src="https://github.com/user-attachments/assets/27b370c4-3e21-47ba-8059-1333f3bccb06">
+
 
 
 # Tecnologias Específicas/Apoio
