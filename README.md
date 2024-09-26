@@ -87,7 +87,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-![tela ferramentas](https://github.com/SPEXPRESS10/SPEXPRESS10/assets/165106927/35ab8a29-f830-4cb2-9202-722db6f003b3)
+![image](https://github.com/user-attachments/assets/c78903d4-8008-4ab0-a893-cfe4683d44ed)
+
 
 
 
