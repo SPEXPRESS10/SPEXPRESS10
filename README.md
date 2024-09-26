@@ -136,7 +136,7 @@ Requisitos não funcionais
 # Sprints do Projeto
 
 ## Sprint 1
-- **Backlog Inicial**
+- Backlog Inicial
 - Criação da documentação do projeto.
 - Estruturação e organização das planilhas de dados.
 - Definição de estratégias personalizadas para o cliente.
@@ -145,7 +145,7 @@ Requisitos não funcionais
 
 
 ## Sprint 2
-- **Entrega do MVP**
+- Entrega do MVP
 - Desenvolvimento do banco de dados utilizando SQL.
 - Implementação de problemas lineares no produto.
 - Teste de ferramentas de otimização para aprimorar o trajeto entre fábricas e clientes.
@@ -154,13 +154,13 @@ Requisitos não funcionais
 - Coleta e análise de feedback do cliente sobre o MVP.
 
 ## Sprint 3
-- **Avaliação de Soluções**
+- Avaliação de Soluções
 - Verificação da eficácia e viabilidade das soluções implementadas em Python e SQL.
 - Análise do impacto e desempenho das soluções, com foco na melhoria dos resultados da empresa.
 - Elaboração do relatório da Sprint 3.
 
 ## Sprint 4
-- **Implementação de melhorias**
+- Implementação de melhorias
 - Implementação de melhorias baseadas no feedback recebido.
 - Refinamento das estratégias de otimização do trajeto entre fábricas e clientes.
 - Realização de testes finais para garantir a qualidade do produto.
