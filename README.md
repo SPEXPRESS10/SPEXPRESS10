@@ -133,69 +133,40 @@ Requisitos não funcionais
 
 
 
-### Sprint 1: Criação e Modelagem do Banco de Dados em SQL
- 
-- **Definição de Requisitos:**
-  - Levantar necessidades de dados sobre veículos, rotas e custos.
-- **Modelo de Dados:**
-  - Estruturar tabelas: Veículos, Cargas, Rotas, Custos, Entregas.
-  - Definir relacionamentos entre as tabelas (ex: Veículos <-> Rotas).
- 
-- **Implementação do Banco:**
-  - Criar o banco de dados em um sistema SQL.
-  - Inserir dados de exemplo para testes.
- 
-- **Documentação:**
-  - Registrar o modelo de dados e instruções de uso.
- 
----
- 
-### Sprint 2: Criação do Visualizador de Indicadores em BI
- 
-- **Definição de KPIs:**
-  - Identificar indicadores chave (ex: taxa de utilização de veículos, custo por km, tempo de entrega).
- 
-- **Seleção da Ferramenta de BI:**
-  - Escolher uma ferramenta adequada (ex: Power BI, Tableau).
- 
-- **Desenvolvimento do Dashboard:**
-  - Criar visualizações para monitorar KPIs.
-  - Integrar o banco de dados para atualização dinâmica.
- 
-- **Testes e Feedback:**
-  - Validar as visualizações com usuários finais e ajustar conforme necessário.
- 
----
- 
-### Sprint 3: Aplicação do Método de Transportes
- 
-- **Revisão de Dados:**
-  - Analisar dados de rotas e custos para identificar padrões e ineficiências.
- 
-- **Implementação do Método:**
-  - Aplicar o método de transportes para otimização da distribuição.
-  - Modelar cenários de otimização para diferentes regiões e tipos de carga.
- 
-- **Validação de Resultados:**
-  - Comparar resultados otimizados com dados anteriores.
-  - Ajustar parâmetros conforme necessário.
- 
----
- 
-### Sprint 4: Integração e Apresentação Final
- 
-- **Integração dos Componentes:**
-  - Garantir que o banco de dados, visualizador de BI e otimização estejam interconectados.
- 
-- **Teste Final:**
-  - Realizar testes finais para garantir que tudo funcione como esperado.
- 
-- **Preparação da Apresentação:**
-  - Criar uma apresentação para stakeholders, demonstrando os resultados e benefícios.
- 
-- **Feedback e Melhorias:**
-  - Coletar feedback dos stakeholders para futuras iterações e melhorias no sistema.
+# Sprints do Projeto
 
+## Sprint 1
+- **Backlog Inicial**
+- Criação da documentação do projeto.
+- Estruturação e organização das planilhas de dados.
+- Definição de estratégias personalizadas para o cliente.
+- Análise da distância (km) entre a fábrica e os clientes.
+- Realização de brainstorming sobre o caso de uso.
+
+
+## Sprint 2
+- **Entrega do MVP**
+- Desenvolvimento do banco de dados utilizando SQL.
+- Implementação de problemas lineares no produto.
+- Teste de ferramentas de otimização para aprimorar o trajeto entre fábricas e clientes.
+- Análise da proximidade dos clientes em relação a cada fábrica.
+- Elaboração do relatório da Sprint 2.
+- Coleta e análise de feedback do cliente sobre o MVP.
+
+## Sprint 3
+- **Avaliação de Soluções**
+- Verificação da eficácia e viabilidade das soluções implementadas em Python e SQL.
+- Análise do impacto e desempenho das soluções, com foco na melhoria dos resultados da empresa.
+- Elaboração do relatório da Sprint 3.
+
+## Sprint 4
+- **Implementação de melhorias**
+- Implementação de melhorias baseadas no feedback recebido.
+- Refinamento das estratégias de otimização do trajeto entre fábricas e clientes.
+- Realização de testes finais para garantir a qualidade do produto.
+- Preparação para a entrega formal do projeto, incluindo uma apresentação para as partes interessadas.
+
+  
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
