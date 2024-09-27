@@ -73,14 +73,6 @@ Sprint | Previsão | Status| Histórico|
 
 <br>
 
-# Backlog do produto
-### Sprint 1  
-
-![image](https://github.com/user-attachments/assets/f9531423-dfed-45d5-9e84-c6a4bb2924bd)
-
-
-
-
 
 # Tecnologias Específicas/Apoio
 
@@ -114,8 +106,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-
-# Burndown
+# Backlog do produto
+## Burndown
 ![image](https://github.com/user-attachments/assets/53683ba4-4d57-405b-8d17-e26d33810f1e)
 
 
@@ -131,6 +123,7 @@ Sprint | Previsão | Status| Histórico|
 - Análise da distância (km) entre a fábrica e os clientes.
 - Realização de brainstorming sobre o caso de uso.
 
+![image](https://github.com/user-attachments/assets/f9531423-dfed-45d5-9e84-c6a4bb2924bd)
 
 ## Sprint 2
 - Entrega do MVP
