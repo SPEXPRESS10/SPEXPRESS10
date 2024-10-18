@@ -110,7 +110,7 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 
 # Backlog do produto
 ## Burndown
-![image](https://github.com/user-attachments/assets/53683ba4-4d57-405b-8d17-e26d33810f1e)
+![image](https://github.com/user-attachments/assets/91025838-7bd8-4b1b-a27e-235726b3c14e)
 
 
 ## Dashboard 
@@ -129,7 +129,6 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 - Análise da distância (km) entre a fábrica e os clientes.
 - Realização de brainstorming sobre o caso de uso.
 
-![image](https://github.com/user-attachments/assets/f9531423-dfed-45d5-9e84-c6a4bb2924bd)
 
 ## Sprint 2
 - Entrega do MVP
@@ -140,7 +139,6 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 - Elaboração do relatório da Sprint 2.
 - Coleta e análise de feedback do cliente sobre o MVP.
 
-  ![image](https://github.com/user-attachments/assets/270b2f26-3caa-479d-a821-0f08cbbb44cc)
 
 
 ## Sprint 3
