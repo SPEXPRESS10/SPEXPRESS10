@@ -140,6 +140,9 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 - Elaboração do relatório da Sprint 2.
 - Coleta e análise de feedback do cliente sobre o MVP.
 
+  ![image](https://github.com/user-attachments/assets/270b2f26-3caa-479d-a821-0f08cbbb44cc)
+
+
 ## Sprint 3
 - Avaliação de Soluções
 - Verificação da eficácia e viabilidade das soluções implementadas em Python e SQL.
