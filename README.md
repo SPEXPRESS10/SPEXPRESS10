@@ -102,7 +102,6 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-
 https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 
 
