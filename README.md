@@ -113,6 +113,10 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 ![image](https://github.com/user-attachments/assets/53683ba4-4d57-405b-8d17-e26d33810f1e)
 
 
+## Dashboard 
+![image](https://github.com/user-attachments/assets/eea34097-856e-49bb-b7c7-d30697fa87ff)
+
+
 
 
 # Sprints do Projeto
