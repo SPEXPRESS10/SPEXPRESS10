@@ -61,9 +61,9 @@ Sprint | Previsão | Status| Histórico|
 * Aplicação do Método de Transportes:  Análise detalhada dos dados coletados para identificar padrões e ineficiências. 
 
 # Funcionalidades Principais 
+![image](https://github.com/user-attachments/assets/3dc255d3-8abc-447a-8bd5-6921df585cf9)
 
 # Resultado Esperado
-![image](https://github.com/user-attachments/assets/3dc255d3-8abc-447a-8bd5-6921df585cf9)
 
 
 
