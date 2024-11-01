@@ -49,7 +49,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Estrutura Organizacional do Projeto
 
-![image](https://github.com/user-attachments/assets/76a0049b-74f7-4065-b3ee-4a6662ec0486)
+![image](https://github.com/user-attachments/assets/e7ff4dec-b3c4-454e-9f6a-ae7465f875ff)
 
 
 
