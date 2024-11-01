@@ -115,6 +115,11 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 ![image](https://github.com/user-attachments/assets/eea34097-856e-49bb-b7c7-d30697fa87ff)
 
 
+## Codigo Phyton
+![image](https://github.com/user-attachments/assets/0ec37544-7df2-4d99-adf7-f626b5bc2a19)
+
+[![Open in Colab](<your-image-path>)](https://colab.research.google.com/drive/1qNzvpUa1PjezXlMlpY-omqqVpIa3pePp?usp=sharing)
+
 # Sprints do Projeto
 
 ## Sprint 1
