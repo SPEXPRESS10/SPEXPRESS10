@@ -8,7 +8,8 @@
 
 * [Projeto](#projeto-api)
 * [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Objetivo do Produto](#objetivo-do-produto)
+* [Funcionalidades Principais](#funcionalidades-principais)
 * [Resultado Esperado](#resultado-esperado)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
@@ -26,11 +27,11 @@ O projeto em questão tem como objetivo principal o desenvolvimento de uma API q
 # Cronograma das Sprints
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2024 | **Em Andamento** | [Ver Relatório]() | 
-|01 | 27/09/2024 | **Em Andamento** | [Ver Relatório]() | 
-|02|  18/10/2024 | **Em Andamento** |[Ver Relatório]() | 
-|03| 08/11/2024 | **Em Andamento** |[Ver Relatório]() | 
-|04| 29/11/2024 | **Em Andamento** |[Ver Relatório]()  | 
+|KICK OFF | 30/08/2024 | **Em Andamento** | [Ver Relatório]() | 
+|SPRINT 1| 27/09/2024 | **Em Andamento** | [Ver Relatório]() | 
+|SPRINT 2|  18/10/2024 | **Em Andamento** |[Ver Relatório]() | 
+|SPRINT 3| 08/11/2024 | **Em Andamento** |[Ver Relatório]() | 
+|SPRINT 4| 29/11/2024 | **Em Andamento** |[Ver Relatório]()  | 
 |Feira de Soluções| 12/12/2024 | **Em Andamento** |[Ver Relatório]() | 
 
 <br>
