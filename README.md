@@ -53,13 +53,14 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Objetivo do Projeto
+# Objetivo do Produto
 
 
 * Criação e Modelagem do Banco de Dados: Um banco de dados em SQL será criado para armazenar essas informações, garantindo que os dados sejam facilmente acessíveis e manipuláveis.
 * Criação do Visualizador de Indicadores em BI: Será integrada a ferramentas de Business Intelligence para a visualização de indicadores de desempenho (KPIs).
 * Aplicação do Método de Transportes:  Análise detalhada dos dados coletados para identificar padrões e ineficiências. 
 
+# Funcionalidades Principais 
 
 # Resultado Esperado
 
