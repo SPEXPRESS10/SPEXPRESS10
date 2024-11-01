@@ -63,6 +63,8 @@ Sprint | Previsão | Status| Histórico|
 # Funcionalidades Principais 
 
 # Resultado Esperado
+![image](https://github.com/user-attachments/assets/3dc255d3-8abc-447a-8bd5-6921df585cf9)
+
 
 
 * Eficiência Operacional: Com a centralização dos dados e a automação de processos, as empresas poderão operar de maneira mais ágil e eficiente.
