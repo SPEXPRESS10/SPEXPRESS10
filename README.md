@@ -73,16 +73,6 @@ Sprint | Previsão | Status| Histórico|
 <br>
 
 
-# Tecnologias Específicas/Apoio
-
-
-
-
-![image](https://github.com/user-attachments/assets/c78903d4-8008-4ab0-a893-cfe4683d44ed)
-
-
-
-
 
 
  # Produto 
@@ -156,6 +146,14 @@ https://github.com/user-attachments/assets/c9f814ec-67b0-423a-86e0-7f0c43591480
 - Refinamento das estratégias de otimização do trajeto entre fábricas e clientes.
 - Realização de testes finais para garantir a qualidade do produto.
 - Preparação para a entrega formal do projeto, incluindo uma apresentação para as partes interessadas.
+
+
+# Tecnologias Específicas/Apoio
+
+
+
+
+![image](https://github.com/user-attachments/assets/c78903d4-8008-4ab0-a893-cfe4683d44ed)
 
   
 # Competências desenvolvidas
