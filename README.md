@@ -139,6 +139,8 @@ Sprint | Previsão | Status| Histórico|
 - Produtividade mensal do veículo.
 - Taxa de ocupação 
 
+![Gráfico de Burndown](https://github.com/user-attachments/assets/14927c47-b05c-45a2-a47b-b4688dce3ce6)
+
 ## Sprint 4
 - Implementação de melhorias
 - Implementação de melhorias baseadas no feedback recebido.
