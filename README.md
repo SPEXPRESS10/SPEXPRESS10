@@ -97,6 +97,7 @@ Sprint | Previsão | Status| Histórico|
 
 [Relatório Explicativo sobre o Cálculo de Custo por Unidade para Clientes e Fábricas](https://github.com/SPEXPRESS10/SPEXPRESS10/blame/8f0f91613a12a8dc3e6200652495b20b26ddc617/Relat%C3%B3rio%20Explicativo%20sobre%20o%20C%C3%A1lculo%20de%20Custo%20por%20Unidade%20para%20Clientes%20e%20F%C3%A1bricas.docx)
 
+[Video Phyton](https://fatecspgov-my.sharepoint.com/:v:/g/personal/anderson_serio_fatec_sp_gov_br/ETmKAb1uroZFrT3lvAHvQ8IBVwCVBvmZ4Gy1R0PBXaXj4w?e=jOWevm)
 
 
 # Backlog do produto
