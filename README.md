@@ -119,6 +119,9 @@ Sprint | Previsão | Status| Histórico|
 - Análise da distância (km) entre a fábrica e os clientes.
 - Realização de brainstorming sobre o caso de uso.
 
+  ![Gráfico de Burndown](https://github.com/user-attachments/assets/e7437171-7cee-4506-9d20-ddf592a2b734)
+
+
 
 ## Sprint 2
 - Entrega do MVP
@@ -128,6 +131,10 @@ Sprint | Previsão | Status| Histórico|
 - Análise da proximidade dos clientes em relação a cada fábrica.
 - Elaboração do relatório da Sprint 2.
 - Coleta e análise de feedback do cliente sobre o MVP.
+
+  ![Gráfico de Burndown](https://github.com/user-attachments/assets/15623540-d294-44f5-ab0c-0499d953cc5f)
+
+
 
 
 
