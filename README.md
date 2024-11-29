@@ -106,7 +106,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 ## Dashboard 
-![image](https://github.com/user-attachments/assets/eea34097-856e-49bb-b7c7-d30697fa87ff)
+![Dashboard](https://github.com/user-attachments/assets/7a540653-c5c3-4bc5-a557-063eaaed3b05)
+
 
 
 # Sprints do Projeto
